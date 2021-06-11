@@ -1,0 +1,3 @@
+[submodule "MoviePostersCrawler"]
+	path = MoviePostersCrawler
+	url = git@github.com:LokIIE/MoviePostersCrawler.git
