@@ -17,9 +17,9 @@ Ce jeu utilise les affiches minimalises de films de [Chungkong](https://www.chun
 ### Développement du jeu
 
 Voici l'état d'avancement de la réalisation de ce jeu :\
-[] Crawler les affiches sur la boutique pour en récupérer les données (images, titres, liens...)\
-[] Mapping d'une affiche avec les informations du film associé sur [IMDB](https://www.imdb.com/)\
-[] Création d'une base de données MySQL\
+[x] Crawler les affiches sur la boutique pour en récupérer les données (images, titres, liens...)\
+[x] Mapping d'une affiche avec les informations du film associé sur [IMDB](https://www.imdb.com/)\
+[x] Création d'une base de données PostgresSQL\
 [] Décider d'un design responsive\
 [] Création d'une partie\
 [] Animation de révélation des parties de l'affiche\
